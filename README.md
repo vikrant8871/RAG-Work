@@ -127,9 +127,6 @@ See requirements.txt. Typical stack includes:
 - python-dotenv
 - jupyter
 
-## License
-
-This project is for educational purposes. Choose and set a license that fits your needs (e.g., MIT, Apache-2.0) if you plan to distribute.
 
 ## Acknowledgments
 
