@@ -5,7 +5,7 @@ A minimal Retrieval-Augmented Generation (RAG) project demonstrating how to inde
 ## Project Structure
 
 ```
-RAG Crash course/
+RAG Work/
 ├─ data/
 │  ├─ pdf/
 │  │  └─ Statistic_For_Data_Science_1704226429.pdf
