@@ -1,4 +1,4 @@
-# RAG Statistic based model
+# RAG Statistics based model
 
 A minimal Retrieval-Augmented Generation (RAG) project demonstrating how to index local documents, create embeddings, persist a vector store, and answer questions using an LLM with retrieved context.
 
